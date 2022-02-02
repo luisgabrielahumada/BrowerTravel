@@ -1,0 +1,9 @@
+{
+  "titulo": "string",
+  "sinopsis": "string",
+  "n_Paginas": "string",
+  "editorial": {
+    "id": 0,
+    "nombre": "string",
+    "sede": "string"
+  }
